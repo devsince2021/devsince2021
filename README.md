@@ -31,6 +31,7 @@
 
 
 ### Grass
-private에서는 public보다 좀 더 잔디가 심어져있습니다.
+private에서는 public보다는 좀 더 잔디가 심어져있습니다.
 
-![Screenshot 2024-01-09 at 7 30 29 PM](https://github.com/devsince2021/devsince2021/assets/77978026/269dafe0-b92d-4ac5-902c-9071b0d02d45)
+![Screenshot 2024-01-09 at 7 48 22 PM](https://github.com/devsince2021/devsince2021/assets/77978026/13ade4b5-de74-45c8-bd68-c6d881632ce7)
+
