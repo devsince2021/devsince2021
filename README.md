@@ -17,9 +17,14 @@
 
 <br />
 
-- 학습용레포: https://github.com/learn-dev-concepts
-- 토이프로젝트: https://github.com/learn-through-project
-- 아이디어구현: https://github.com/realize-idea-project
+- [학습용레포] : https://github.com/learn-dev-concepts <br />
+  강의나 책을 보며 학습한 코드들이 들어있습니다. <br />
+  <br />
+- [토이프로젝트] : https://github.com/learn-through-project <br />
+  팀플을 하거나 가볍게 만들어본 프로젝트들이 들어있습니다. <br />
+  <br />
+- [아이디어구현]: https://github.com/realize-idea-project <br />
+  '실생활에서 써볼 수 있지 않을까'로 시작한 프로젝트들이 들어있습니다. <br />
 
 
 <br />
