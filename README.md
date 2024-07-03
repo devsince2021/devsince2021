@@ -25,7 +25,7 @@
 관심이 있으시다면 아래의 소스코드를 꼭 참고해주세요.  <br />
 
 소스코드: [서비스 소스코드](https://github.com/jdh-dev-community/coconut) <br />
-블로그: [서비스를 만들면서 남긴 기로들](https://iwsaitw.tistory.com/category/%EC%9A%B4%EC%98%81%20%EC%A4%91%EC%9D%B8%20%EC%84%9C%EB%B9%84%EC%8A%A4/Coconut.)
+블로그: [서비스를 만들면서 남긴 기록들](https://iwsaitw.tistory.com/category/%EC%9A%B4%EC%98%81%20%EC%A4%91%EC%9D%B8%20%EC%84%9C%EB%B9%84%EC%8A%A4/Coconut.)
 
 <br />
 
